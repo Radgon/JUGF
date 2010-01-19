@@ -1,0 +1,10 @@
+**************************************************
+  SpringFramework Introduction - Database sample
+**************************************************
+
+1. Download Apache Derby (http://db.apache.org/derby/derby_downloads.html)
+2. Extract and start apache-derby/bin/startNetworkServer.bat
+3. Extract derby_home.zip to c:\ (if you choose an other directory, you have to adjust /UtilityProject/src/main/resources/META-INF/spring/app-context.xml)
+4. Run /UtilityProject/src/test/java/com/commons/sample/ExampleConfigurationTests.java as JUnit test (Alt+Shift+X, t or right-click, run as ... JUnit Test)
+
+
